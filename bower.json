@@ -1,0 +1,21 @@
+{
+  "name": "reactjs-demo",
+  "description": "Hello World With React.js",
+  "main": "none",
+  "authors": [
+    "Hiroaki Yamamoto"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.1.0",
+    "angular": "angularjs#^1.5.5"
+  }
+}
