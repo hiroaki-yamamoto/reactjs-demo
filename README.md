@@ -10,9 +10,9 @@ certain startup company.
 * Currently, there are no-tests, because this is just a demo.
 
 ## Requirements
-* [Linux] or [OS X]
-  (I use [ArchLinux], but it is for super-nerds. I recommend to use Ubuntu.)
-* [NodeJS] with [NPM] (I use NodeJS 6.2.0)
+* [Linux] or [OS X].
+  I use [ArchLinux], but it is for super-nerds. I recommend to use Ubuntu.
+* [NodeJS] with [NPM]. I use NodeJS 6.2.0
 * [Git]
 
 [NodeJS]:https://nodejs.org
