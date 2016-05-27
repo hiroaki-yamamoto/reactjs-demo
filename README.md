@@ -4,9 +4,10 @@
 This is just a demo to proof hiro's reactJS and its related skills for a
 certain startup company.
 
-## The backend note
+## Note
 * This doesn't use express.Router, because this is a super-small demo.
 * React stuff is compiled thru babel on server-side
+* Currently, there are no-tests, because this is just a demo.
 
 ## Requirements
 * [Linux] or [OS X]
