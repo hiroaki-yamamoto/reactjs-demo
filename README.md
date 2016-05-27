@@ -11,7 +11,7 @@ certain startup company.
 
 ## Requirements
 * [Linux] or [OS X].
-  I use [ArchLinux], but it is for super-nerds. I recommend to use Ubuntu.
+  I use [ArchLinux], but it is for super-nerds. I recommend to use [Ubuntu].
 * [NodeJS] with [NPM]. I use NodeJS 6.2.0
 * [Git]
 
@@ -21,6 +21,7 @@ certain startup company.
 [ArchLinux]: https://www.archlinux.org/
 [Linux]: https://en.wikipedia.org/wiki/Linux
 [OS X]: http://www.apple.com/osx/
+[Ubuntu]: http://www.ubuntu.com/
 
 ## How to setup
 1. Open your favorite terminal
